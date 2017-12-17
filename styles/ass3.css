@@ -1,0 +1,107 @@
+/*Headings */
+h1 {
+color:purple;
+font-family:broadway;
+font-size:48pt;
+text-align:center;
+}
+
+/* Layers */
+#silverLayer {
+background:silver;
+color:red;
+width:30%;
+float:left;
+text-align:center;
+}
+#yellowLayer {
+background:yellow;
+width:40%;
+float:left;
+text-align:center;
+}
+#orangeLayer {
+background:orange;
+width:30%;
+float:right;
+text-align:center;
+}
+#redLayer  {
+background:red;
+width:40%;
+float:left;
+text-align:center;
+}
+#navyLayer {
+background:navy;
+width:30%;
+Float:left;
+text-align:center;
+}
+#aquaLayer {
+background:aqua;
+width:40%;
+float:left;
+color:white;
+text-align:center;
+}
+#limeLayer {
+background:lime;
+width:30%;
+float:right;
+color:white;
+text-align:center;
+}
+
+
+
+/* floating images */
+.wrapRight {
+Float:left;
+margin-right:20px;
+margin-bottom:25px;
+}
+
+/* Text */
+.redText {
+color:red;
+font-weight:bold;
+}
+.purpleText {
+color:purple;
+font-style:italic;
+}
+.whiteText {
+color:white;
+background:black;
+font-weight:bold;
+}
+.yellowText {
+color:yellow;
+background:red;
+font-weight:bold;
+}
+.purpleText {
+color:purple;
+font-family:"Comic Sans MS";
+}
+
+
+
+/* Footer */
+#Footer {
+position:absolute;
+bottom:0;
+width:99%;
+height:30px; /*Height of the footer */
+}
+
+/* floating text */
+.alignleft {
+float: left;
+
+}
+.alignright {
+float: right;
+
+}

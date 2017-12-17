@@ -1,0 +1,52 @@
+/* Text */
+.redText {
+color:red;
+font-weight:bold;
+}
+
+/*Headings */
+h1 {
+color:blue;
+font-family:verdana;
+font-size:24pt;
+}
+/* Layers */
+#yellowLayer {
+background:yellow;
+color:blue;
+width:20%;
+float:left;
+}
+#greenLayer {
+background:green;
+width:60%;
+float:left;
+}
+#blueLayer {
+height:400px;
+color:white;
+width:20%;
+float:right;
+background:url(..images/Tulips.jpg) 0 0 no-repeat;
+}
+#redLayer {
+background:red;
+width:20%;
+float:left;
+}
+#purpleLayer {
+background:purple;
+width:60%;
+float:left;
+}
+#orangeLayer {
+background:orange;
+width:20%;
+float:right;
+}
+/* Floating images */
+.wrapRight {
+float:left;
+margin-right:15px;
+margin-left:20px;
+}
